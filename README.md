@@ -1,8 +1,8 @@
-# Open-Axial-Coding-System
-OACSy - Open and Axial Coding System. 
+# React + Vite
 
-A simple tool to suport Open, InVivo and Axial Coding for Qualitative Research - Grounded Theory Research.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-
-Ps: I'm using this project to learn new technologies like Reactjs, Node.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
